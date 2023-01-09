@@ -1,0 +1,26 @@
+img {
+    max-width: 100%;
+    max-height: 80px;
+}
+.vivo{
+    display: flex; justify-content: space-around; 
+}
+.linc{
+    border: 2px solid black; padding: 2%;
+}
+.ball{
+    padding: 2%; max-width: 50%;
+
+}
+.main{
+    background-image: url('./food.jpg');
+    padding: 5%;
+    color: antiquewhite;
+}
+.alt{
+    text-align: center;
+    margin: 2%;
+}
+#contact{
+    text-decoration: none;
+}
